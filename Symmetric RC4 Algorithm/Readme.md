@@ -25,11 +25,11 @@ This Java project demonstrates how to use the **RC4 (Rivest Cipher 4)** algorith
 
 ### 1. Compile the Java file:
 
-```bash
-javac RC4Example.java
+#### bash
+javac RC4.java
 
-### **2. Run the program:**
-java RC4Example
+### 2. Run the program:
+java RC4
 
 ### 🔍 Sample Output:
 Original Text: Hello RC4 Encryption!
@@ -54,7 +54,7 @@ The encrypted Base64 string is decrypted back into original text.
 RC4 has known vulnerabilities and is not considered secure for modern cryptographic uses. Use AES or ChaCha20 for secure implementations.
 
 ### 📁 File Structure
-RC4Example.java       // Java source code
+RC4.java       // Java source code
 README.md             // Project documentation
 
 ### 📚 References
