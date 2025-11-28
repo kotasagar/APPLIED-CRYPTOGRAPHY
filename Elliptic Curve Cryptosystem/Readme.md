@@ -8,17 +8,17 @@ The code uses a small toy curve for learning purposes only.
 
 The program implements:
 
-Finite-field arithmetic
+- Finite-field arithmetic
 
-### Point addition
+- Point addition
 
-### Point doubling
+- Point doubling
 
-### Scalar multiplication (double-and-add)
+- Scalar multiplication (double-and-add)
 
-Key pair generation
+- Key pair generation
 
-ECDH shared secret derivation
+- ECDH shared secret derivation
 
 Everything is contained in one file for simplicity: ECCExample.java
 
