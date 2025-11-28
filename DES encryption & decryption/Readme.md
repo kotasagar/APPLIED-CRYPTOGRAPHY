@@ -32,7 +32,7 @@ File Structure
 DESExample.java
 
 
-Contains:
+#### Contains:
 
 encrypt() – encrypts a string using DES
 
