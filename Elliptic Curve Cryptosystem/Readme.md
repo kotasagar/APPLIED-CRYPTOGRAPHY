@@ -26,7 +26,7 @@ Everything is contained in one file for simplicity: ECCExample.java
 
 The project uses a simple demonstrative curve:
 
-y² = x³ + ax + b   (mod p)
+#### y² = x³ + ax + b   (mod p)
 
 p = 751
 a = 750
